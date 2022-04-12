@@ -1,1 +1,1 @@
-﻿# i made this for my self practise with laravel i'll improve it in future
+﻿# i made this for my self to understand how frameworks work
