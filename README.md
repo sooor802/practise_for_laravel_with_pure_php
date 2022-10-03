@@ -1,1 +1,2 @@
-﻿# i made this for my self to understand how frameworks work
+﻿# MicroFramework for php 
+ // mvc practice
